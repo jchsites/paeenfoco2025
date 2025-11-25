@@ -1,0 +1,5 @@
+[28-Jul-2025 12:08:38 America/Sao_Paulo] Default exception handler: error/Unable to find forum with cmid 2 Debug: 
+Error code: Unable to find forum with cmid 2
+$a contents: 
+* line 54 of /mod/forum/view.php: core\exception\moodle_exception thrown
+

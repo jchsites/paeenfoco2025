@@ -1,0 +1,48 @@
+# ========================================================
+# Arquivo .htaccess para Moodle (compatível Apache 2.4 + PHP-FPM)
+# ========================================================
+
+# Ativar engine de rewrite
+RewriteEngine On
+
+# Ajuste a base se o Moodle estiver em subpasta
+# Exemplo: /moodle/ → RewriteBase /moodle/
+RewriteBase /
+
+# Não reescrever chamadas ao index.php
+RewriteRule ^index\.php$ - [L]
+
+# Se o arquivo ou diretório não existe, envia para index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
+
+# ========================================================
+# Segurança básica
+# ========================================================
+
+# Bloquear acesso direto a arquivos sensíveis (Apache 2.4)
+<FilesMatch "\.(htaccess|htpasswd|ini|phps|fla|psd|log|sh|bak|sql)$">
+    Require all denied
+</FilesMatch>
+
+# Desativar listagem de diretórios
+Options -Indexes
+
+# Forçar UTF-8
+AddDefaultCharset utf-8
+
+# Forçar UTF-8 em todas as páginas HTML
+AddDefaultCharset UTF-8
+
+# Forçar cabeçalho correto para HTML e CSS
+AddType 'text/html; charset=UTF-8' .html .htm
+AddType 'text/css; charset=UTF-8' .css
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Defina o pacote “ea-php83” como a linguagem padrão de programação “PHP”.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php83 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

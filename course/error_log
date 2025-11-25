@@ -1,0 +1,189 @@
+[27-Jul-2025 01:02:57 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[27-Jul-2025 01:02:57 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[27-Jul-2025 01:34:47 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[27-Jul-2025 01:34:47 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[27-Jul-2025 02:02:10 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[27-Jul-2025 02:02:10 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[28-Jul-2025 09:48:40 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[28-Jul-2025 09:48:40 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[28-Jul-2025 09:57:48 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[28-Jul-2025 09:57:48 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[28-Jul-2025 09:57:56 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[28-Jul-2025 09:57:56 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[28-Jul-2025 09:58:29 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[28-Jul-2025 09:58:29 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[28-Jul-2025 10:41:58 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[28-Jul-2025 10:41:58 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[28-Jul-2025 11:10:41 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[28-Jul-2025 11:10:41 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[28-Jul-2025 16:27:45 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[28-Jul-2025 16:27:45 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[28-Jul-2025 18:19:34 America/Sao_Paulo] PHP Warning:  require(/home/paee/public_html/course/format/site/format.php): Failed to open stream: No such file or directory in /home/paee/public_html/course/view.php on line 366
+[28-Jul-2025 18:19:34 America/Sao_Paulo] Default exception handler: Exceção - Failed opening required '[dirroot]/course/format/site/format.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 366 of /course/view.php: Error thrown
+
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 9 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 10 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 11 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 12 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 13 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 14 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 15 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 16 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 17 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 18 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 19 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 20 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 21 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 22 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 23 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 24 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 25 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 26 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 27 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 28 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 29 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 30 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 31 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 32 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 33 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 34 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 35 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 36 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 37 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 38 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 39 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 40 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key 41 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 9 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 10 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 11 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 12 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 13 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 14 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 15 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 16 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 17 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 18 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 19 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 20 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 21 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 22 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 23 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 24 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 25 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 26 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 27 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 28 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 29 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 30 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 31 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 32 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 33 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 34 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 35 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 36 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 37 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 38 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 39 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 40 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Undefined array key 41 in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[28-Jul-2025 21:50:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "uservisible" on null in /home/paee/public_html/course/format/remuiformat/renderer.php on line 183
+[31-Aug-2025 13:07:03 America/Sao_Paulo] Cannot find session record 38f7317d309a54591a6b6a9bf0d59b06 for user 1315, creating new session.
+[06-Sep-2025 17:41:18 America/Sao_Paulo] Database transaction aborted automatically in /home/paee/public_html/course/modedit.php

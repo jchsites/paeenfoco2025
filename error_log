@@ -1,0 +1,98 @@
+[10-Jul-2025 20:44:28 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'paee_moodle'@'localhost' (using password: YES) in /home/paee/public_html/lib/dml/mysqli_native_moodle_database.php on line 91
+[27-Jul-2025 01:02:50 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[27-Jul-2025 01:24:09 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[27-Jul-2025 01:32:10 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[27-Jul-2025 01:34:33 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[27-Jul-2025 02:02:07 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[27-Jul-2025 02:05:00 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[27-Jul-2025 13:57:10 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[28-Jul-2025 09:40:26 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[28-Jul-2025 09:48:37 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[28-Jul-2025 09:57:45 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[28-Jul-2025 09:57:52 America/Sao_Paulo] Default exception handler: Nenhum argumento válido fornecido ou configuração de servidor incorreta. Debug: 
+Error code: invalidargorconf
+* line 43 of /draftfile.php: core\exception\moodle_exception thrown
+
+[28-Jul-2025 10:15:15 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[28-Jul-2025 10:27:13 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[28-Jul-2025 10:41:55 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[28-Jul-2025 10:42:01 America/Sao_Paulo] Default exception handler: Nenhum argumento válido fornecido ou configuração de servidor incorreta. Debug: 
+Error code: invalidargorconf
+* line 43 of /draftfile.php: core\exception\moodle_exception thrown
+
+[28-Jul-2025 11:10:38 America/Sao_Paulo] Default exception handler: Desculpe, o arquivo não foi encontrado Debug: 
+Error code: filenotfound
+* line 2161 of /lib/filelib.php: core\exception\moodle_exception thrown
+* line 81 of /draftfile.php: call to send_file_not_found()
+
+[06-Aug-2025 19:19:54 America/Sao_Paulo] Cannot find session record c0665e573b4e7468f882d04f720b2913 for user 2343, creating new session.
+[23-Aug-2025 03:55:22 America/New_York] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home/paee/public_html/lib/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 76
+Trace: #0 /home/paee/public_html/lib/slim/slim/Slim/Middleware/RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(GuzzleHttp\Psr7\ServerRequest))
+#1 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): Slim\Middleware\RoutingMiddleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home/paee/public_html/lib/classes/router/middleware/uri_normalisation_middleware.php(59): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#3 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): core\router\middleware\uri_normalisation_middleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home/paee/public_html/lib/slim/slim/Slim/Middleware/ErrorMiddleware.php(76): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#5 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): Slim\Middleware\ErrorMiddleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(65): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#7 /home/paee/public_html/lib/slim/slim/Slim/App.php(199): Slim\MiddlewareDispatcher->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#8 /home/paee/public_html/lib/slim/slim/Slim/App.php(183): Slim\App->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#9 /home/paee/public_html/lib/classes/router.php(310): Slim\App->run()
+#10 /home/paee/public_html/r.php(55): core\router->serve()
+#11 {main}

@@ -1,0 +1,115 @@
+[28-Jul-2025 14:00:50 America/Sao_Paulo] PHP Warning:  require_once(/home/paee/public_html/login/renderer.php): Failed to open stream: No such file or directory in /home/paee/public_html/theme/adaptable/renderers.php on line 4
+[28-Jul-2025 14:00:50 America/Sao_Paulo] PHP Warning:  require_once(/home/paee/public_html/login/renderer.php): Failed to open stream: No such file or directory in /home/paee/public_html/theme/adaptable/renderers.php on line 4
+[28-Jul-2025 14:00:50 America/Sao_Paulo] PHP Warning:  require_once(/home/paee/public_html/login/renderer.php): Failed to open stream: No such file or directory in /home/paee/public_html/theme/adaptable/renderers.php on line 4
+[28-Jul-2025 21:25:11 America/Sao_Paulo] Debugging: This page did not call $PAGE->set_url(...). Using https://paeenfoco2025.org/lib/ajax/service.php?sesskey=8T3Ra3mtBu&amp;info=core_courseformat_get_state in 
+* line 684 of /lib/pagelib.php: call to debugging()
+* line 965 of /lib/pagelib.php: call to moodle_page->magic_get_url()
+* line 232 of /course/format/remuiformat/lib.php: call to moodle_page->__get()
+* line 2994 of /course/lib.php: call to format_remuiformat->get_view_url()
+* line 86 of /course/format/classes/output/local/state/section.php: call to course_get_url()
+* line 103 of /course/format/classes/external/get_state.php: call to core_courseformat\output\local\state\section->export_for_template()
+* line ? of unknownfile: call to core_courseformat\external\get_state::execute()
+* line 253 of /lib/external/classes/external_api.php: call to call_user_func_array()
+* line 83 of /lib/ajax/service.php: call to core_external\external_api::call_external_function()
+
+[28-Jul-2025 21:25:13 America/Sao_Paulo] Debugging: This page did not call $PAGE->set_url(...). Using https://paeenfoco2025.org/lib/ajax/service.php?sesskey=o0aDCuI8eF&amp;info=core_courseformat_get_state in 
+* line 684 of /lib/pagelib.php: call to debugging()
+* line 965 of /lib/pagelib.php: call to moodle_page->magic_get_url()
+* line 232 of /course/format/remuiformat/lib.php: call to moodle_page->__get()
+* line 2994 of /course/lib.php: call to format_remuiformat->get_view_url()
+* line 86 of /course/format/classes/output/local/state/section.php: call to course_get_url()
+* line 103 of /course/format/classes/external/get_state.php: call to core_courseformat\output\local\state\section->export_for_template()
+* line ? of unknownfile: call to core_courseformat\external\get_state::execute()
+* line 253 of /lib/external/classes/external_api.php: call to call_user_func_array()
+* line 83 of /lib/ajax/service.php: call to core_external\external_api::call_external_function()
+
+[28-Jul-2025 21:26:52 America/Sao_Paulo] Debugging: This page did not call $PAGE->set_url(...). Using https://paeenfoco2025.org/lib/ajax/service.php?sesskey=8T3Ra3mtBu&amp;info=core_courseformat_get_state in 
+* line 684 of /lib/pagelib.php: call to debugging()
+* line 965 of /lib/pagelib.php: call to moodle_page->magic_get_url()
+* line 232 of /course/format/remuiformat/lib.php: call to moodle_page->__get()
+* line 2994 of /course/lib.php: call to format_remuiformat->get_view_url()
+* line 86 of /course/format/classes/output/local/state/section.php: call to course_get_url()
+* line 103 of /course/format/classes/external/get_state.php: call to core_courseformat\output\local\state\section->export_for_template()
+* line ? of unknownfile: call to core_courseformat\external\get_state::execute()
+* line 253 of /lib/external/classes/external_api.php: call to call_user_func_array()
+* line 83 of /lib/ajax/service.php: call to core_external\external_api::call_external_function()
+
+[28-Jul-2025 21:27:26 America/Sao_Paulo] Debugging: This page did not call $PAGE->set_url(...). Using https://paeenfoco2025.org/lib/ajax/service.php?sesskey=8T3Ra3mtBu&amp;info=core_courseformat_get_state in 
+* line 684 of /lib/pagelib.php: call to debugging()
+* line 965 of /lib/pagelib.php: call to moodle_page->magic_get_url()
+* line 232 of /course/format/remuiformat/lib.php: call to moodle_page->__get()
+* line 2994 of /course/lib.php: call to format_remuiformat->get_view_url()
+* line 86 of /course/format/classes/output/local/state/section.php: call to course_get_url()
+* line 103 of /course/format/classes/external/get_state.php: call to core_courseformat\output\local\state\section->export_for_template()
+* line ? of unknownfile: call to core_courseformat\external\get_state::execute()
+* line 253 of /lib/external/classes/external_api.php: call to call_user_func_array()
+* line 83 of /lib/ajax/service.php: call to core_external\external_api::call_external_function()
+
+[28-Jul-2025 21:46:00 America/Sao_Paulo] Debugging: This page did not call $PAGE->set_url(...). Using https://paeenfoco2025.org/lib/ajax/service.php?sesskey=8T3Ra3mtBu&amp;info=core_courseformat_get_state in 
+* line 684 of /lib/pagelib.php: call to debugging()
+* line 965 of /lib/pagelib.php: call to moodle_page->magic_get_url()
+* line 232 of /course/format/remuiformat/lib.php: call to moodle_page->__get()
+* line 2994 of /course/lib.php: call to format_remuiformat->get_view_url()
+* line 86 of /course/format/classes/output/local/state/section.php: call to course_get_url()
+* line 103 of /course/format/classes/external/get_state.php: call to core_courseformat\output\local\state\section->export_for_template()
+* line ? of unknownfile: call to core_courseformat\external\get_state::execute()
+* line 253 of /lib/external/classes/external_api.php: call to call_user_func_array()
+* line 83 of /lib/ajax/service.php: call to core_external\external_api::call_external_function()
+
+[28-Jul-2025 21:46:04 America/Sao_Paulo] Debugging: This page did not call $PAGE->set_url(...). Using https://paeenfoco2025.org/lib/ajax/service.php?sesskey=o0aDCuI8eF&amp;info=core_courseformat_get_state in 
+* line 684 of /lib/pagelib.php: call to debugging()
+* line 965 of /lib/pagelib.php: call to moodle_page->magic_get_url()
+* line 232 of /course/format/remuiformat/lib.php: call to moodle_page->__get()
+* line 2994 of /course/lib.php: call to format_remuiformat->get_view_url()
+* line 86 of /course/format/classes/output/local/state/section.php: call to course_get_url()
+* line 103 of /course/format/classes/external/get_state.php: call to core_courseformat\output\local\state\section->export_for_template()
+* line ? of unknownfile: call to core_courseformat\external\get_state::execute()
+* line 253 of /lib/external/classes/external_api.php: call to call_user_func_array()
+* line 83 of /lib/ajax/service.php: call to core_external\external_api::call_external_function()
+
+[28-Jul-2025 21:48:39 America/Sao_Paulo] Debugging: This page did not call $PAGE->set_url(...). Using https://paeenfoco2025.org/lib/ajax/service.php?sesskey=8T3Ra3mtBu&amp;info=core_courseformat_get_state in 
+* line 684 of /lib/pagelib.php: call to debugging()
+* line 965 of /lib/pagelib.php: call to moodle_page->magic_get_url()
+* line 232 of /course/format/remuiformat/lib.php: call to moodle_page->__get()
+* line 2994 of /course/lib.php: call to format_remuiformat->get_view_url()
+* line 86 of /course/format/classes/output/local/state/section.php: call to course_get_url()
+* line 103 of /course/format/classes/external/get_state.php: call to core_courseformat\output\local\state\section->export_for_template()
+* line ? of unknownfile: call to core_courseformat\external\get_state::execute()
+* line 253 of /lib/external/classes/external_api.php: call to call_user_func_array()
+* line 83 of /lib/ajax/service.php: call to core_external\external_api::call_external_function()
+
+[28-Jul-2025 21:49:35 America/Sao_Paulo] Debugging: This page did not call $PAGE->set_url(...). Using https://paeenfoco2025.org/lib/ajax/service.php?sesskey=8T3Ra3mtBu&amp;info=core_courseformat_get_state in 
+* line 684 of /lib/pagelib.php: call to debugging()
+* line 965 of /lib/pagelib.php: call to moodle_page->magic_get_url()
+* line 232 of /course/format/remuiformat/lib.php: call to moodle_page->__get()
+* line 2994 of /course/lib.php: call to format_remuiformat->get_view_url()
+* line 86 of /course/format/classes/output/local/state/section.php: call to course_get_url()
+* line 103 of /course/format/classes/external/get_state.php: call to core_courseformat\output\local\state\section->export_for_template()
+* line ? of unknownfile: call to core_courseformat\external\get_state::execute()
+* line 253 of /lib/external/classes/external_api.php: call to call_user_func_array()
+* line 83 of /lib/ajax/service.php: call to core_external\external_api::call_external_function()
+
+[28-Jul-2025 21:50:16 America/Sao_Paulo] Debugging: This page did not call $PAGE->set_url(...). Using https://paeenfoco2025.org/lib/ajax/service.php?sesskey=o0aDCuI8eF&amp;info=core_courseformat_get_state in 
+* line 684 of /lib/pagelib.php: call to debugging()
+* line 965 of /lib/pagelib.php: call to moodle_page->magic_get_url()
+* line 232 of /course/format/remuiformat/lib.php: call to moodle_page->__get()
+* line 2994 of /course/lib.php: call to format_remuiformat->get_view_url()
+* line 86 of /course/format/classes/output/local/state/section.php: call to course_get_url()
+* line 103 of /course/format/classes/external/get_state.php: call to core_courseformat\output\local\state\section->export_for_template()
+* line ? of unknownfile: call to core_courseformat\external\get_state::execute()
+* line 253 of /lib/external/classes/external_api.php: call to call_user_func_array()
+* line 83 of /lib/ajax/service.php: call to core_external\external_api::call_external_function()
+
+[28-Jul-2025 21:50:17 America/Sao_Paulo] Debugging: This page did not call $PAGE->set_url(...). Using https://paeenfoco2025.org/lib/ajax/service.php?sesskey=8T3Ra3mtBu&amp;info=core_courseformat_get_state in 
+* line 684 of /lib/pagelib.php: call to debugging()
+* line 965 of /lib/pagelib.php: call to moodle_page->magic_get_url()
+* line 232 of /course/format/remuiformat/lib.php: call to moodle_page->__get()
+* line 2994 of /course/lib.php: call to format_remuiformat->get_view_url()
+* line 86 of /course/format/classes/output/local/state/section.php: call to course_get_url()
+* line 103 of /course/format/classes/external/get_state.php: call to core_courseformat\output\local\state\section->export_for_template()
+* line ? of unknownfile: call to core_courseformat\external\get_state::execute()
+* line 253 of /lib/external/classes/external_api.php: call to call_user_func_array()
+* line 83 of /lib/ajax/service.php: call to core_external\external_api::call_external_function()
+
+[01-Aug-2025 11:18:02 America/Sao_Paulo] Cannot find session record bc72b2b9b9ccf15f2c4e28fba592a04c for user 2, creating new session.
+[01-Aug-2025 11:18:02 America/Sao_Paulo] Cannot find session record bc72b2b9b9ccf15f2c4e28fba592a04c for user 2, creating new session.

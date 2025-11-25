@@ -1,0 +1,57 @@
+[30-Jul-2025 12:08:32 America/New_York] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home/paee/public_html/lib/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 76
+Trace: #0 /home/paee/public_html/lib/slim/slim/Slim/Middleware/RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(GuzzleHttp\Psr7\ServerRequest))
+#1 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): Slim\Middleware\RoutingMiddleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home/paee/public_html/lib/classes/router/middleware/uri_normalisation_middleware.php(59): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#3 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): core\router\middleware\uri_normalisation_middleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home/paee/public_html/lib/slim/slim/Slim/Middleware/ErrorMiddleware.php(76): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#5 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): Slim\Middleware\ErrorMiddleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(65): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#7 /home/paee/public_html/lib/slim/slim/Slim/App.php(199): Slim\MiddlewareDispatcher->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#8 /home/paee/public_html/lib/slim/slim/Slim/App.php(183): Slim\App->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#9 /home/paee/public_html/lib/classes/router.php(310): Slim\App->run()
+#10 /home/paee/public_html/r.php(55): core\router->serve()
+#11 /home/paee/public_html/error/index.php(29): require_once('/home/paee/publ...')
+#12 {main}
+[31-Jul-2025 16:33:17 America/New_York] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home/paee/public_html/lib/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 76
+Trace: #0 /home/paee/public_html/lib/slim/slim/Slim/Middleware/RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(GuzzleHttp\Psr7\ServerRequest))
+#1 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): Slim\Middleware\RoutingMiddleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home/paee/public_html/lib/classes/router/middleware/uri_normalisation_middleware.php(59): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#3 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): core\router\middleware\uri_normalisation_middleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home/paee/public_html/lib/slim/slim/Slim/Middleware/ErrorMiddleware.php(76): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#5 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): Slim\Middleware\ErrorMiddleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(65): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#7 /home/paee/public_html/lib/slim/slim/Slim/App.php(199): Slim\MiddlewareDispatcher->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#8 /home/paee/public_html/lib/slim/slim/Slim/App.php(183): Slim\App->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#9 /home/paee/public_html/lib/classes/router.php(310): Slim\App->run()
+#10 /home/paee/public_html/r.php(55): core\router->serve()
+#11 /home/paee/public_html/error/index.php(29): require_once('/home/paee/publ...')
+#12 {main}
+[10-Aug-2025 18:36:23 America/New_York] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home/paee/public_html/lib/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 76
+Trace: #0 /home/paee/public_html/lib/slim/slim/Slim/Middleware/RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(GuzzleHttp\Psr7\ServerRequest))
+#1 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): Slim\Middleware\RoutingMiddleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home/paee/public_html/lib/classes/router/middleware/uri_normalisation_middleware.php(59): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#3 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): core\router\middleware\uri_normalisation_middleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home/paee/public_html/lib/slim/slim/Slim/Middleware/ErrorMiddleware.php(76): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#5 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(121): Slim\Middleware\ErrorMiddleware->process(Object(GuzzleHttp\Psr7\ServerRequest), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home/paee/public_html/lib/slim/slim/Slim/MiddlewareDispatcher.php(65): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#7 /home/paee/public_html/lib/slim/slim/Slim/App.php(199): Slim\MiddlewareDispatcher->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#8 /home/paee/public_html/lib/slim/slim/Slim/App.php(183): Slim\App->handle(Object(GuzzleHttp\Psr7\ServerRequest))
+#9 /home/paee/public_html/lib/classes/router.php(310): Slim\App->run()
+#10 /home/paee/public_html/r.php(55): core\router->serve()
+#11 /home/paee/public_html/error/index.php(29): require_once('/home/paee/publ...')
+#12 {main}

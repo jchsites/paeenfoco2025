@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario de Soporte</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* todo o resto do seu CSS continua aqui */
+body {
+  font-family: 'Roboto', sans-serif;
+  ...
+}
+</style>
+
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+
+    .header {
+      background-color: #00689D;
+      padding: 20px;
+      text-align: right;
+    }
+
+    .volver a {
+      background-color: #ffffff;
+      color: #00689D;
+      padding: 8px 16px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    .container {
+      max-width: 700px;
+      background-color: #ffffff;
+      margin: 30px auto;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .container img.logo {
+      display: block;
+      margin: 0 auto 30px;
+      max-width: 100%;
+      height: 120px;
+    }
+
+    h2 {
+      text-align: center;
+      color: #00689D;
+      margin-bottom: 30px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: bold;
+    }
+
+    input, select, textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    button {
+      background-color: #04A0C8;
+      color: white;
+      border: none;
+      padding: 12px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+    .message {
+      margin-top: 15px;
+      padding: 12px;
+      border-radius: 5px;
+      display: none;
+    }
+
+    .success {
+      background-color: #c7f5d1;
+      color: #2a7a3c;
+    }
+
+    .error {
+      background-color: #f8d7da;
+      color: #721c24;
+    }
+
+    footer {
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <div class="volver"><a href="/">Volver al inicio</a></div>
+  </div>
+
+  <div class="container">
+    <img class="logo" src="/img/logo-paeenfoco_.jpg" alt="Logo curso">
+
+   <iframe src="https://script.google.com/macros/s/AKfycbybvi5A8eIIfqg_edRloVKVsp8i5SMehQxbtqyaKvtrD0TbaqPMwUrCgC4rmFPW9a3T/exec" width="100%" height="800" style="border: none;"></iframe>
+
+  <footer>
+    <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; text-align: center;">
+      <h3 style="color: #000000; margin-bottom: 20px;">Organización:</h3>
+      <h3 style="color: #000000; margin-bottom: 20px;">
+        <img class="img-fluid" role="presentation"
+          src="/img/-_FNDE ESP .jpg"
+          alt="" width="500" height=auto>
+      </h3>
+    </div>
+  </footer>
+
+  <script>
+    const scriptURL = "https://script.google.com/macros/s/AKfycbxA9y5rz9tp0HjMKiyM064bbn76JWO9-rBIPTjnLk1KEKLc3uUjHRHDov1lbG2CSOclDA/exec";
+
+    const form = document.getElementById("supportForm");
+    const successMsg = document.getElementById("successMsg");
+    const errorMsg = document.getElementById("errorMsg");
+
+    form.addEventListener("submit", e => {
+      e.preventDefault();
+      successMsg.style.display = "none";
+      errorMsg.style.display = "none";
+
+      const formData = new FormData(form);
+
+      fetch(scriptURL, {
+        method: "POST",
+        body: formData
+      })
+      .then(response => response.text())
+      .then(result => {
+        if (result.trim() === "OK") {
+          successMsg.style.display = "block";
+          form.reset();
+        } else {
+          errorMsg.style.display = "block";
+        }
+      })
+      .catch(error => {
+        console.error("Error:", error);
+        errorMsg.style.display = "block";
+      });
+    });
+  </script>
+
+</body>
+</html>
+
+
+
+
+
+

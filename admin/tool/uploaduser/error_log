@@ -1,0 +1,158 @@
+[27-Jul-2025 14:19:57 America/Sao_Paulo] Default exception handler: "Nombre completo" não é um nome de campo válido Debug: 
+Error code: invalidfieldname
+* line 243 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+
+[27-Jul-2025 14:20:50 America/Sao_Paulo] Default exception handler: Não há colunas suficientes, verifique a configuração do delimitador. Debug: 
+Error code: csvfewcolumns
+* line 200 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+
+[27-Jul-2025 15:23:13 America/Sao_Paulo] Default exception handler: "Honduras" não é um nome de campo válido Debug: 
+Error code: invalidfieldname
+* line 243 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+
+[27-Jul-2025 15:57:47 America/Sao_Paulo] Default exception handler: Nome de campo duplicado "firstname" identificado Debug: 
+Error code: duplicatefieldname
+* line 248 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+
+[27-Jul-2025 16:02:10 America/Sao_Paulo] Default exception handler: Nome de campo duplicado "firstname" identificado Debug: 
+Error code: duplicatefieldname
+* line 248 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+
+[27-Jul-2025 16:02:43 America/Sao_Paulo] Default exception handler: "group" não é um nome de campo válido Debug: 
+Error code: invalidfieldname
+* line 243 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+
+[27-Jul-2025 16:03:05 America/Sao_Paulo] Default exception handler: "group" não é um nome de campo válido Debug: 
+Error code: invalidfieldname
+* line 243 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+
+[27-Jul-2025 16:40:00 America/Sao_Paulo] Default exception handler: Nome de campo duplicado "firstname" identificado Debug: 
+Error code: duplicatefieldname
+* line 248 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+
+[27-Jul-2025 21:01:29 America/Sao_Paulo] Default exception handler: Nome de campo duplicado "firstname" identificado Debug: 
+Error code: duplicatefieldname
+* line 248 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+
+[27-Jul-2025 21:15:52 America/Sao_Paulo] Default exception handler: Ocorreu um erro durante o carregamento do arquivo CSV: O formato do arquivo CSV é inválido - o número de colunas não é constante! Debug: 
+Error code: csvloaderror
+* line 57 of /admin/tool/uploaduser/index.php: core\exception\moodle_exception thrown
+
+[27-Jul-2025 21:33:58 America/Sao_Paulo] Default exception handler: Erro ao escrever na base de dados Debug: Data too long for column 'phone1' at row 1
+INSERT INTO mdl_user (username,firstname,lastname,email,institution,department,phone1,password,country,mnethostid,emailstop,city,lang,timezone,mailformat,maildisplay,maildigest,autosubscribe,idnumber,phone2,address,description,descriptionformat,auth,confirmed,timemodified,timecreated,suspended,calendartype,trackforums) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[array (
+  0 => 'pae@sedfacatativa.gov.co',
+  1 => 'Camilo',
+  2 => 'Andres Hurtado Betancurth',
+  3 => 'Pae@sedfacatativa.gov.co',
+  4 => 'SECRETARIA DE EDUCACIN MUNICIPAL DE FACATATIVA',
+  5 => 'PROFESIONAL UNIVERSITARIO',
+  6 => '3017081944/3188044195',
+  7 => '$6$rounds=5000$O3KduCONAyjOCEn6$Ag.NqenhVy6jA9ndLCAmQ9xlAOetbBRqlm16dnDqZWlN0Mgb9UXvezV8njbyhGEeslNQTgfG63txC.zqOsbJu0',
+  8 => 'CO',
+  9 => '1',
+  10 => '0',
+  11 => '',
+  12 => 'es',
+  13 => 'America/Sao_Paulo',
+  14 => '1',
+  15 => '0',
+  16 => '0',
+  17 => '1',
+  18 => '',
+  19 => '',
+  20 => '',
+  21 => '',
+  22 => '1',
+  23 => 'manual',
+  24 => 1,
+  25 => 1753662838,
+  26 => 1753662838,
+  27 => 0,
+  28 => 'gregorian',
+  29 => '0',
+)]
+Error code: dmlwriteexception
+* line 500 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 346 of /lib/dml/moodle_read_replica_trait.php: call to moodle_database->query_end()
+* line 1448 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1494 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+* line 1035 of /admin/tool/uploaduser/classes/process.php: call to user_create_user()
+* line 343 of /admin/tool/uploaduser/classes/process.php: call to tool_uploaduser\process->process_line()
+* line 92 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->process()
+
+[27-Jul-2025 21:43:22 America/Sao_Paulo] Default exception handler: Erro ao escrever na base de dados Debug: Data too long for column 'phone1' at row 1
+INSERT INTO mdl_user (username,firstname,lastname,email,institution,department,phone1,password,country,mnethostid,emailstop,city,lang,timezone,mailformat,maildisplay,maildigest,autosubscribe,idnumber,phone2,address,description,descriptionformat,auth,confirmed,timemodified,timecreated,suspended,calendartype,trackforums) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[array (
+  0 => 'pae@sedfacatativa.gov.co',
+  1 => 'Camilo',
+  2 => 'Andres Hurtado Betancurth',
+  3 => 'Pae@sedfacatativa.gov.co',
+  4 => 'SECRETARIA DE EDUCACIN MUNICIPAL DE FACATATIVA',
+  5 => 'PROFESIONAL UNIVERSITARIO',
+  6 => '3017081944/3188044195',
+  7 => '$6$rounds=5000$QPkr//mFvXh6y46I$C0ewY.chKD/btpe1peKY2Ogj5C5lEZJvWqFkKtHSmWEgoFdUHUhwqgiO9UnHITeBSpJlnukuFHeCjQwiQUuOP1',
+  8 => 'CO',
+  9 => '1',
+  10 => '0',
+  11 => '',
+  12 => 'es',
+  13 => 'America/Sao_Paulo',
+  14 => '1',
+  15 => '0',
+  16 => '0',
+  17 => '1',
+  18 => '',
+  19 => '',
+  20 => '',
+  21 => '',
+  22 => '1',
+  23 => 'manual',
+  24 => 1,
+  25 => 1753663402,
+  26 => 1753663402,
+  27 => 0,
+  28 => 'gregorian',
+  29 => '0',
+)]
+Error code: dmlwriteexception
+* line 500 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 346 of /lib/dml/moodle_read_replica_trait.php: call to moodle_database->query_end()
+* line 1448 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1494 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+* line 1035 of /admin/tool/uploaduser/classes/process.php: call to user_create_user()
+* line 343 of /admin/tool/uploaduser/classes/process.php: call to tool_uploaduser\process->process_line()
+* line 92 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->process()
+
+[27-Jul-2025 23:59:57 America/Sao_Paulo] Default exception handler: "" não é um nome de campo válido Debug: 
+Error code: invalidfieldname
+* line 243 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+
+[28-Jul-2025 00:43:55 America/Sao_Paulo] Default exception handler: "" não é um nome de campo válido Debug: 
+Error code: invalidfieldname
+* line 243 of /admin/tool/uploaduser/locallib.php: core\exception\moodle_exception thrown
+* line 192 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()
+* line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process->get_file_columns()
+

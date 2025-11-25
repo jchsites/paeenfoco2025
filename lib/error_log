@@ -1,0 +1,7 @@
+[27-Jul-2025 04:29:52 America/New_York] PHP Warning:  Undefined array key 2 in /home/paee/public_html/lib/requirejs.php on line 53
+[27-Jul-2025 04:29:52 America/New_York] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/paee/public_html/lib/requirejs.php on line 98
+[28-Jul-2025 13:50:56 America/New_York] PHP Warning:  fopen(/home/paee/moodledata/localcache/requirejs/13e30ce821bd6e672423164f4732bbb3ccfba326.tmp): Failed to open stream: File exists in /home/paee/public_html/lib/jslib.php on line 114
+[28-Jul-2025 13:55:06 America/New_York] PHP Warning:  Undefined array key 2 in /home/paee/public_html/lib/requirejs.php on line 53
+[28-Jul-2025 13:55:06 America/New_York] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/paee/public_html/lib/requirejs.php on line 98
+[28-Jul-2025 17:43:06 America/New_York] PHP Warning:  Undefined array key 2 in /home/paee/public_html/lib/requirejs.php on line 53
+[28-Jul-2025 17:43:06 America/New_York] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/paee/public_html/lib/requirejs.php on line 98

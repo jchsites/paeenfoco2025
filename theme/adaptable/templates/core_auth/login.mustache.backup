@@ -1,0 +1,74 @@
+{{!
+    Template de tela de login customizado para o tema Adaptable - Curso PAE em Foco 2025
+}}
+
+<h1 style="color:red;">TESTE TEMPLATE</h1>
+<body class="login-page pagelayout-login">
+
+<style>
+    body.pagelayout-login {
+        background-image: url('https://paeenfoco2025.org/img/bg-paenfoco.jpg') !important;
+        background-repeat: no-repeat !important;
+        background-position: center center !important;
+        background-attachment: fixed !important;
+        background-size: cover !important;
+    }
+</style>
+
+
+<div class="login-wrapper">
+    <div class="loginbox clearfix">
+        <div class="text-center">
+            <img src="/img/logo-paeenfoco_.jpg"
+                 alt="Logo curso PAE em Foco 2025"
+                 style="max-width: 220px; margin-bottom: 20px;">
+        </div>
+        <h2 class="text-center">Bem-vindo ao curso<br>PAE em Foco 2025</h2>
+        <p class="text-center">Faça login com seu e-mail e senha</p>
+
+        <div class="loginform">
+            {{{ output.standard_login_form }}}
+        </div>
+    </div>
+</div>
+
+<style>
+.login-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background: #f0f4f8;
+    padding: 20px;
+}
+.loginbox {
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    background: white;
+    max-width: 420px;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.loginbox h2 {
+    margin-bottom: 15px;
+    color: #007DBC;
+    font-weight: 600;
+}
+.loginbox p {
+    margin-top: -10px;
+    margin-bottom: 25px;
+    color: #444;
+    font-size: 14px;
+}
+input[type="submit"],
+button[type="submit"] {
+    background-color: #04A0C8 !important;
+    color: white !important;
+    border: none;
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+</style>
+

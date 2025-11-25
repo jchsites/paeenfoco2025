@@ -1,0 +1,31 @@
+<h1 style="color: red;">TESTE LOGIN TEMPLATE ADAPTABLE</h1>
+
+<body class="login-page custom-bg">
+  <style>
+    body.login-page {
+        background: url('/img/bg-paenfoco.jpg') no-repeat center center fixed;
+        background-size: cover;
+    }
+  </style>
+
+  <div class="loginform">
+    <div class="text-center mb-4">
+      <img src="/img/logo-paeenfoco_.jpg" alt="Logo curso PAE em Foco 2025" style="max-width: 220px; margin-bottom: 20px;">
+      <h2 class="mt-3" style="color: #007DBC;">Bem-vindo ao curso<br>PAE em Foco 2025</h2>
+      <p class="text-muted">Faça login com seu e-mail e senha</p>
+    </div>
+
+    {{{ login_form_html }}}
+
+    <div class="d-flex justify-content-between mt-3">
+      <button type="button" class="btn btn-secondary"
+              data-modal="alert"
+              data-modal-title-str='["cookiesenabled", "core"]'
+              data-modal-content-str='["cookiesenabled_help_html", "core"]'>
+        {{#str}}cookiesnotice{{/str}}
+      </button>
+
+      <a href="https://paeenfoco2025.org/soporte.html" class="btn btn-info text-white">SOPORTE</a>
+    </div>
+  </div>
+</body>

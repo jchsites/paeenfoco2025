@@ -1,0 +1,14 @@
+<div class="login-container" style="max-width: 420px; margin: 40px auto; padding: 30px; background: #fff; border-radius: 12px; box-shadow: 0 0 15px rgba(0,0,0,0.1);">
+  <div style="text-align: center; margin-bottom: 20px;">
+    <img src="https://paeenfoco2025.org/draftfile.php/5/user/draft/733508188/logo-paeenfoco_.jpg" alt="Logo do curso" style="max-width: 250px;">
+  </div>
+
+  <h3 style="text-align: center;">Bienvenido al curso<br><strong>PAE en Foco 2025</strong></h3>
+  <p style="text-align: center;">Inicie sesión con su correo electrónico y contraseña</p>
+
+  {{{error}}}
+  {{{info}}}
+
+  {{{form}}}
+</div>
+

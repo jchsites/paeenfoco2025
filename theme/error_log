@@ -1,0 +1,51 @@
+[28-Jul-2025 13:52:21 America/Sao_Paulo] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: This file should not be manually included by any component. Debug: 
+Error code: codingerror
+* line 21 of /lib/outputrenderers.php: core\exception\coding_exception thrown
+* line 4 of /theme/adaptable/renderers.php: call to require_once()
+* line 543 of /lib/classes/output/theme_config.php: call to include_once()
+* line 451 of /lib/classes/output/theme_config.php: call to core\output\theme_config->__construct()
+* line 111 of /theme/styles.php: call to core\output\theme_config::load()
+
+[28-Jul-2025 13:53:57 America/Sao_Paulo] Default exception handler: Excepción - Class "core_auth_renderer" not found Debug: 
+Error code: generalexceptionmessage
+* line 6 of /theme/adaptable/renderers.php: Error thrown
+* line 543 of /lib/classes/output/theme_config.php: call to include_once()
+* line 451 of /lib/classes/output/theme_config.php: call to core\output\theme_config->__construct()
+* line 111 of /theme/styles.php: call to core\output\theme_config::load()
+
+[28-Jul-2025 13:54:15 America/Sao_Paulo] Default exception handler: Excepción - Class "core_auth_renderer" not found Debug: 
+Error code: generalexceptionmessage
+* line 6 of /theme/adaptable/renderers.php: Error thrown
+* line 543 of /lib/classes/output/theme_config.php: call to include_once()
+* line 451 of /lib/classes/output/theme_config.php: call to core\output\theme_config->__construct()
+* line 111 of /theme/styles.php: call to core\output\theme_config::load()
+
+[28-Jul-2025 13:55:21 America/Sao_Paulo] Default exception handler: Excepción - Class "core_auth_renderer" not found Debug: 
+Error code: generalexceptionmessage
+* line 4 of /theme/adaptable/renderers.php: Error thrown
+* line 543 of /lib/classes/output/theme_config.php: call to include_once()
+* line 451 of /lib/classes/output/theme_config.php: call to core\output\theme_config->__construct()
+* line 111 of /theme/styles.php: call to core\output\theme_config::load()
+
+[28-Jul-2025 13:55:57 America/Sao_Paulo] Default exception handler: Excepción - Class "core_auth_renderer" not found Debug: 
+Error code: generalexceptionmessage
+* line 4 of /theme/adaptable/renderers.php: Error thrown
+* line 543 of /lib/classes/output/theme_config.php: call to include_once()
+* line 451 of /lib/classes/output/theme_config.php: call to core\output\theme_config->__construct()
+* line 111 of /theme/styles.php: call to core\output\theme_config::load()
+
+[28-Jul-2025 13:59:31 America/Sao_Paulo] Default exception handler: Excepción - Class "core_auth_renderer" not found Debug: 
+Error code: generalexceptionmessage
+* line 4 of /theme/adaptable/renderers.php: Error thrown
+* line 543 of /lib/classes/output/theme_config.php: call to include_once()
+* line 451 of /lib/classes/output/theme_config.php: call to core\output\theme_config->__construct()
+* line 111 of /theme/styles.php: call to core\output\theme_config::load()
+
+[28-Jul-2025 14:00:49 America/Sao_Paulo] PHP Warning:  require_once(/home/paee/public_html/login/renderer.php): Failed to open stream: No such file or directory in /home/paee/public_html/theme/adaptable/renderers.php on line 4
+[28-Jul-2025 14:00:49 America/Sao_Paulo] Default exception handler: Excepción - Failed opening required '[dirroot]/login/renderer.php' (include_path='[dirroot]/lib/pear:[dirroot]/lib/pear:.:/opt/cpanel/ea-php83/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 4 of /theme/adaptable/renderers.php: Error thrown
+* line 543 of /lib/classes/output/theme_config.php: call to include_once()
+* line 451 of /lib/classes/output/theme_config.php: call to core\output\theme_config->__construct()
+* line 111 of /theme/styles.php: call to core\output\theme_config::load()
+

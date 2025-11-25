@@ -1,0 +1,8 @@
+[26-Jul-2025 23:59:35 America/New_York] PHP Deprecated:  fwrite(): Passing null to parameter #2 ($data) of type string is deprecated in /home/paee/public_html/lib/editor/tiny/loader.php on line 234
+[27-Jul-2025 00:35:07 America/New_York] PHP Deprecated:  fwrite(): Passing null to parameter #2 ($data) of type string is deprecated in /home/paee/public_html/lib/editor/tiny/loader.php on line 234
+[27-Jul-2025 13:26:22 America/New_York] PHP Deprecated:  fwrite(): Passing null to parameter #2 ($data) of type string is deprecated in /home/paee/public_html/lib/editor/tiny/loader.php on line 234
+[28-Jul-2025 12:41:34 America/New_York] PHP Deprecated:  fwrite(): Passing null to parameter #2 ($data) of type string is deprecated in /home/paee/public_html/lib/editor/tiny/loader.php on line 234
+[28-Jul-2025 12:49:14 America/New_York] PHP Deprecated:  fwrite(): Passing null to parameter #2 ($data) of type string is deprecated in /home/paee/public_html/lib/editor/tiny/loader.php on line 234
+[28-Jul-2025 13:08:47 America/New_York] PHP Deprecated:  fwrite(): Passing null to parameter #2 ($data) of type string is deprecated in /home/paee/public_html/lib/editor/tiny/loader.php on line 234
+[28-Jul-2025 13:11:10 America/New_York] PHP Deprecated:  fwrite(): Passing null to parameter #2 ($data) of type string is deprecated in /home/paee/public_html/lib/editor/tiny/loader.php on line 234
+[28-Jul-2025 13:51:58 America/New_York] PHP Deprecated:  fwrite(): Passing null to parameter #2 ($data) of type string is deprecated in /home/paee/public_html/lib/editor/tiny/loader.php on line 234

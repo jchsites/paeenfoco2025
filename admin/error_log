@@ -1,0 +1,40 @@
+[27-Jul-2025 01:03:57 America/Sao_Paulo] Default exception handler: Sua sessão provavelmente expirou. Verifique se você está logado ou volte para a tela anterior e recarregue a página. Debug: 
+Error code: invalidsesskey
+* line 85 of /lib/sessionlib.php: core\exception\moodle_exception thrown
+* line 898 of /lib/filelib.php: call to require_sesskey()
+* line 10726 of /lib/adminlib.php: call to file_get_submitted_draft_itemid()
+* line 126 of /theme/adaptable/classes/admin_setting_configstoredfiles.php: call to admin_setting_configstoredfile->output_html()
+* line 1652 of /lib/adminlib.php: call to theme_adaptable\admin_setting_configstoredfiles->output_html()
+* line 84 of /theme/adaptable/classes/admin_settingspage_tabs.php: call to admin_settingpage->output_html()
+* line 157 of /admin/settings.php: call to theme_adaptable\admin_settingspage_tabs->output_html()
+
+[27-Jul-2025 01:32:16 America/Sao_Paulo] Default exception handler: Erro de sessão! Debug: 
+Error code: sectionerror
+* line 26 of /admin/settings.php: core\exception\moodle_exception thrown
+
+[28-Jul-2025 09:49:07 America/Sao_Paulo] Default exception handler: Sua sessão provavelmente expirou. Verifique se você está logado ou volte para a tela anterior e recarregue a página. Debug: 
+Error code: invalidsesskey
+* line 85 of /lib/sessionlib.php: core\exception\moodle_exception thrown
+* line 898 of /lib/filelib.php: call to require_sesskey()
+* line 10726 of /lib/adminlib.php: call to file_get_submitted_draft_itemid()
+* line 126 of /theme/adaptable/classes/admin_setting_configstoredfiles.php: call to admin_setting_configstoredfile->output_html()
+* line 1652 of /lib/adminlib.php: call to theme_adaptable\admin_setting_configstoredfiles->output_html()
+* line 84 of /theme/adaptable/classes/admin_settingspage_tabs.php: call to admin_settingpage->output_html()
+* line 157 of /admin/settings.php: call to theme_adaptable\admin_settingspage_tabs->output_html()
+
+[28-Jul-2025 15:05:14 America/Sao_Paulo] Default exception handler: Sua sessão provavelmente expirou. Verifique se você está logado ou volte para a tela anterior e recarregue a página. Debug: 
+Error code: invalidsesskey
+* line 318 of /lib/formslib.php: core\exception\moodle_exception thrown
+* line 231 of /lib/formslib.php: call to moodleform->_process_submission()
+* line 35 of /admin/purgecaches.php: call to moodleform->__construct()
+
+[28-Jul-2025 16:23:54 America/Sao_Paulo] Default exception handler: Sua sessão provavelmente expirou. Verifique se você está logado ou volte para a tela anterior e recarregue a página. Debug: 
+Error code: invalidsesskey
+* line 85 of /lib/sessionlib.php: core\exception\moodle_exception thrown
+* line 898 of /lib/filelib.php: call to require_sesskey()
+* line 10726 of /lib/adminlib.php: call to file_get_submitted_draft_itemid()
+* line 126 of /theme/adaptable/classes/admin_setting_configstoredfiles.php: call to admin_setting_configstoredfile->output_html()
+* line 1652 of /lib/adminlib.php: call to theme_adaptable\admin_setting_configstoredfiles->output_html()
+* line 84 of /theme/adaptable/classes/admin_settingspage_tabs.php: call to admin_settingpage->output_html()
+* line 157 of /admin/settings.php: call to theme_adaptable\admin_settingspage_tabs->output_html()
+

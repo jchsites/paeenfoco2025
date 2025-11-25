@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Pizarra de Interacción</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root { --azul:#00689D; }
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      background-color: #f4f6f8;
+    }
+    header {
+      background-color: var(--azul);
+      color: white;
+      padding: 20px;
+      text-align: center;
+      position: relative;
+    }
+    .back-button {
+      position: absolute;
+      right: 20px;
+      top: 20px;
+    }
+    .back-button a {
+      background-color: white;
+      color: var(--azul);
+      padding: 8px 16px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      border: 2px solid white;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 20px;
+      text-align: center;
+    }
+    .logo-box {
+      background-color: white;
+      border-radius: 12px;
+      padding: 20px;
+      display: inline-block;
+      margin-bottom: 30px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    .logo-box img { max-width: 320px; height: auto; }
+    h2 { color: var(--azul); margin-bottom: 40px; font-size: 26px; }
+
+    .grid {
+      display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;
+    }
+    .card {
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+      width: 220px;
+      text-align: center;
+      padding: 20px;
+      transition: transform 0.2s;
+    }
+    .card:hover { transform: scale(1.02); }
+    .card img { width: 90px; height: auto; margin-bottom: 12px; }
+    .card h4 { margin: 10px 0 12px; color: #333; }
+
+    /* Botões minimalistas */
+    .actions { display: flex; flex-direction: column; gap: 8px; margin-top: 8px; }
+    .btn-link {
+      display: inline-block;
+      background: #fff;
+      color: var(--azul);
+      border: 1px solid var(--azul);
+      padding: 8px 10px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 700;
+    }
+    .btn-link:hover { background: #f0f7fb; }
+
+    footer {
+      background-color: #ffffff;
+      padding: 20px;
+      text-align: center;
+    }
+    footer img { margin-top: 10px; max-width: 90%; height: auto; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Pizarra de Interacción</h1>
+  <div class="back-button">
+    <a href="/index.php">Volver al inicio</a>
+  </div>
+</header>
+
+<div class="container">
+  <div class="logo-box">
+    <img src="/img/logo-paeenfoco_.jpg" alt="Logo curso">
+  </div>
+
+  <h2>Seleccione su país</h2>
+
+ <div class="grid">
+  <!-- Bolivia -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/bo.png" alt="Bolivia">
+    <h4>Bolivia</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/eo1R47MV6QKmqZDL-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/Arng4MLN65YGvK6p-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/xPdL4gejy0DzqpwK-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Chile -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/cl.png" alt="Chile">
+    <h4>Chile</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/PkpnqABdOk5lvD0B-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/kZDR4LQ8p9B02l9a-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/GyPQvXlZ83w3v3OL-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Colombia -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/co.png" alt="Colombia">
+    <h4>Colombia</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/6RDZ2yBpo0eNqyej-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/J7z0qjKW3K5evmWQ-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/K8wMqGOKNlRDqZJO-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Boyacá -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/co.png" alt="Boyacá">
+    <h4>Colombia (Boyacá)</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/JZaQvQZmwzJK4nYK-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/E1Xd49NLOlEl2GJr-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/ke9Kqzb0Nm1yqYQG-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Costa Rica -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/cr.png" alt="Costa Rica">
+    <h4>Costa Rica</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/QgJV4ZznZjVr4mBk-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/Vnr04VQYpzMovBdW-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/olbw2371eplG2L30-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Cuba -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/cu.png" alt="Cuba">
+    <h4>Cuba</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/6RDZ2yBp78MYqyej-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/PkpnqABdemMGvD0B-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/Arng4ML9XGW5vK6p-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Ecuador -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/ec.png" alt="Ecuador">
+    <h4>Ecuador</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/kxPM2kx0G15kqgbV-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/YQjo4KGZmArd4DwL-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/jzJX4EOM3WnnqbnO-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- El Salvador -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/sv.png" alt="El Salvador">
+    <h4>El Salvador</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/d6AO26lob3YEvojL-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/K8wMqGOxEozPqZJO-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/ZNL0qanpZD3pvP1d-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Guatemala -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/gt.png" alt="Guatemala">
+    <h4>Guatemala</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/Vnr04VQYkzrBvBdW-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/DKrG4njxYBQK41y3-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/3jXMqplK3GMjqAzx-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Honduras -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/hn.png" alt="Honduras">
+    <h4>Honduras</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/961rqR9p38Ja2nND-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/961rqR9pj8GJ2nND-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/3jXMqplK3wlpqAzx-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Paraguay -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/py.png" alt="Paraguay">
+    <h4>Paraguay</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/65XOvBO5nlWR4GBQ-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/6RDZ2yBpK0DNqyej-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/DKrG4njMPwaY41y3-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Perú -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/pe.png" alt="Perú">
+    <h4>Perú</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/d6AO26lob3PEvojL-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/xPdL4ge9gZGRqpwK-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/DKrG4njMPm0Z41y3-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Rep. Dominicana -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/do.png" alt="República Dominicana">
+    <h4>Rep. Dominicana</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/mWng4l1lY7pN2zdJ-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/JZaQvQZmEand4nYK-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/mWng4l1oQEl52zdJ-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Uruguay -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/uy.png" alt="Uruguay">
+    <h4>Uruguay</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/961rqR9pbNxo2nND-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/olbw237nGLmk2L30-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/DKrG4njMPw1o41y3-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+
+  <!-- Venezuela -->
+  <div class="card">
+    <img src="https://flagcdn.com/w80/ve.png" alt="Venezuela">
+    <h4>Venezuela</h4>
+    <div class="actions">
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/eXwgvw5z6aoE2ybR-eWRpzxZq2J6Mv7Qr">Enlace 1</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/J7pj4ogDeEXp4KMG-qg3ezdM0NPA0XwNP">Enlace 2</a>
+      <a class="btn-link" target="_blank" href="https://padlet.com/Mila12345/breakout-room/3n6K2WQalAVdv0A9-o4ZnXBE35oPQzNda">Comparta sus ideas</a>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<footer>
+  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; text-align: center;">
+    <h3 style="color: #000000; margin-bottom: 20px;">Organización:</h3>
+    <h3 style="color: #000000; margin-bottom: 20px;">
+      <img class="img-fluid" role="presentation" src="/img/-_FNDE ESP .jpg" alt="" width="800" height="67">
+    </h3>
+  </div>
+</footer>
+
+</body>
+</html>
+
