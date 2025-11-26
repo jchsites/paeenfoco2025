@@ -1,48 +1,91 @@
-# Moodle
+# 🌎 PAE em Foco – Plataforma EAD FAO/ONU (RAES)
 
-<p align="center"><a href="https://moodle.org" target="_blank" title="Moodle Website">
-  <img src="https://raw.githubusercontent.com/moodle/moodle/main/.github/moodlelogo.svg" alt="The Moodle Logo">
-</a></p>
+Sistema EAD criado para apoiar o **Programa de Alimentação Escolar Sustentável** na América Latina e Caribe, no âmbito da **Red de Alimentación Escolar Sostenible (RAES)**, com apoio técnico da **FAO/ONU**.
 
-[Moodle][1] is the World's Open Source Learning Platform, widely used around the world by countless universities, schools, companies, and all manner of organisations and individuals.
+> **Ambiente oficial:** https://paeenfoco2025.org  
+> **Tecnologia:** Moodle + Tema Adaptable + CSS/JS customizado  
+> **Administração & Desenvolvimento:** JCH Sites (André)
 
-Moodle is designed to allow educators, administrators and learners to create personalised learning environments with a single robust, secure and integrated system.
+---
 
-## Documentation
+## 🎯 Objetivo
 
-- Read our [User documentation][3]
-- Discover our [developer documentation][5]
-- Take a look at our [demo site][4]
+Oferecer uma plataforma EAD moderna, responsiva e multilíngue para capacitar gestores, técnicos e profissionais envolvidos com:
 
-## Community
+- Alimentação Escolar Sustentável  
+- Sistemas Alimentares  
+- Educação Nutricional  
+- Políticas Públicas de Alimentação Escolar nos países da RAES  
 
-[moodle.org][1] is the central hub for the Moodle Community, with spaces for educators, administrators and developers to meet and work together.
+O curso tem alcance **multinacional**, com participantes de:  
+**Brasil, Chile, Guatemala, Peru, Panamá, Paraguai, México, Colômbia** e outros países.
 
-You may also be interested in:
+---
 
-- attending a [Moodle Moot][6]
-- our regular series of [developer meetings][7]
-- the [Moodle User Association][8]
+## 🧩 Principais entregas
 
-## Installation and hosting
+### ✔ Customização visual completa (Tema Adaptable)
+- Layout reformulado para identidade RAES  
+- Página de login com **mural de 4 imagens**  
+- Divisão de tela: **formulário 1/3 | mural 2/3**  
+- Fundo personalizado + botões estilizados  
+- CSS avançado aplicado diretamente no tema
 
-Moodle is Free, and Open Source software. You can easily [download Moodle][9] and run it on your own web server, however you may prefer to work with one of our experienced [Moodle Partners][10].
+### ✔ Estrutura de curso FAO/ONU
+- Módulos organizados pela estrutura RAES  
+- Integração de requerimentos técnicos do curso 2025  
+- Material multilíngue (ES | EN | PT)  
+- Trilha de atividades com avaliações, vídeos e material externo
 
-Moodle also offers hosting through both [MoodleCloud][11], and our [partner network][10].
+### ✔ Ajustes de usabilidade e acessibilidade
+- Melhoria de menu lateral (sumário)  
+- Cada nível com cor e recuo definidos:
+  - **Nível 1:** azul `#007DBC`, texto branco  
+  - **Nível 2:** cinza claro `#F2F2F2`  
+  - **Nível 3:** `#FAFAFA`
+- Hover, bordas e herança de cores
 
-## License
+### ✔ Monitoramento e relatórios
+- Configurable Reports  
+- SQL customizado para progresso dos países  
+- Lista de inscritos por ministério  
+- Exportações CSV para a equipe RAES
 
-Moodle is provided freely as open source software, under version 3 of the GNU General Public License. For more information on our license see
+### ✔ Infraestrutura & Servidor
+- Hospedado em VPS (WHM/cPanel)  
+- Ajustes de performance: memória, cache, OPcache  
+- Política de backups  
+- Monitoramento ativo de carga do Moodle  
+- Otimização para **até 2.000 usuários simultâneos**
 
-[1]: https://moodle.org
-[2]: https://moodle.com
-[3]: https://docs.moodle.org/
-[4]: https://sandbox.moodledemo.net/
-[5]: https://moodledev.io
-[6]: https://moodle.com/events/mootglobal/
-[7]: https://moodledev.io/general/community/meetings
-[8]: https://moodleassociation.org/
-[9]: https://download.moodle.org
-[10]: https://moodle.com/partners
-[11]: https://moodle.com/cloud
-[12]: https://moodledev.io/general/license
+---
+
+## 🚀 Tecnologias utilizadas
+
+- **Moodle 4.x**  
+- Tema **Adaptable**  
+- PHP 8.x  
+- MySQL/MariaDB  
+- WHM/cPanel  
+- VPS com apache + otimizações específicas  
+- CSS customizado  
+- JS para melhorias interativas  
+- Git para versionamento (código CSS/JS/HTML customizados)
+
+---
+
+## 🎓 Público-alvo
+
+Profissionais e gestores de:
+
+- Ministérios da Educação  
+- Ministérios da Saúde  
+- Secretarias nacionais de alimentação escolar  
+- Unidades de Agricultura  
+- Programas governamentais de Soberania Alimentar  
+- Equipes técnicas dos países da **RAES – América Latina e Caribe**
+
+---
+
+## 🛠 Estrutura do repositório
+
