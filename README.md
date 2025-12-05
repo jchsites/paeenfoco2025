@@ -1,4 +1,4 @@
-# 🌎 PAE em Foco – Plataforma EAD FAO/ONU (RAES)
+# 🌎 PAE em Foco – Plataforma EAD FAO/ONU (REDRAES)
 
 Sistema EAD criado para apoiar o **Programa de Alimentação Escolar Sustentável** na América Latina e Caribe, no âmbito da **Red de Alimentación Escolar Sostenible (RAES)**, com apoio técnico da **FAO/ONU**.
 
